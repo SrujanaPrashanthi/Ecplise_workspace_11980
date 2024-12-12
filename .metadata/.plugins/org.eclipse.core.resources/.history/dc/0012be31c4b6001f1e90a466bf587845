@@ -1,0 +1,15 @@
+package myproject;
+
+public class Employee {
+	private int employeeId;
+	private String employeeName;
+	
+	//Constructor, getter & setter methods and toString
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package myproject;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class StudentTest {
+
+	public static void main(String[] args) {
+		List<Student> students = Arrays.asList(
+				new Student (101,"wills", "JFS"),
+				new Student (102,"Smith", "JFS"),
+				new Student (103,"jones", "JFS"),
+				new Student (104,"alice", "JFS"),
+				new Student (101,"alex", "JFS")
+				
+			);
+		System.out.println("-------All Students List---------");
+		students.forEach(System.out:: println);
+		
+		System.out.println("------JFS Students List--------");
+		students.stream()
+				.filter(student -> student.getStudentCourse().equals("JFS"))
+				.forEach(System.out:: println);
+	}
+
+}

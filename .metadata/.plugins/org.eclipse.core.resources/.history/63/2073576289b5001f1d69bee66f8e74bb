@@ -1,0 +1,40 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class FileReaderExample {
+    public static void main(String[] args) {
+        File file = new File("sample.txt");
+        
+        if (!file.exists()) {
+            System.out.println("File not found!");
+            return;
+        }
+        
+        int lineCount = 0, wordCount = 0, charCount = 0;
+        
+        try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+            String line;
+            
+            while ((line = br.readLine()) != null) {
+                lineCount++;  // Count lines
+                charCount += line.length();  // Count characters
+                
+                // Count words
+                String[] words = line.split("\\s+");
+                wordCount += words.length;
+            }
+            
+            System.out.println("File Reading Summary:");
+            System.out.println("Lines: " + lineCount);
+            System.out.println("Words: " + wordCount);
+            System.out.println("Characters: " + charCount);
+            
+        } catch (IOException e) {
+            System.out.println("Error reading file: " + e.getMessage());
+        }
+    }
+}
+
+

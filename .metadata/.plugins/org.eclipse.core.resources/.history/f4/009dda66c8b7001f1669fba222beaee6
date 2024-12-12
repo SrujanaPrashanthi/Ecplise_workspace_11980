@@ -1,0 +1,18 @@
+package com.edubridge.maven_project;
+
+class StudentMarks{
+	int ScienceMarks; 
+	int MathsMarks; 
+	 
+	int GKMarks; 
+}
+
+public class SchoolDetails {
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+
+}

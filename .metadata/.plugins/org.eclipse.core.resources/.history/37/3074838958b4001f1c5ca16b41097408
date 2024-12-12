@@ -1,0 +1,25 @@
+package collections;
+
+import java.util.HashMap;
+
+/*
+ * hashmap:
+ * 1.to store key and value pair
+ * 2.stored based hash code of key
+ */
+
+public class HashMapDemo {
+
+	public static void main(String[] args) {
+		HashMap<String,Integer> hm = new HashMap<>();
+		hm.put("java", 400);
+		hm.put("PFS", 400);
+		hm.put("MEAN", 250);
+		hm.put("MERN", 250);
+		System.out.println(hm);
+		
+		hm.put("java", 500);
+		System.out.println(hm);
+	}
+
+}

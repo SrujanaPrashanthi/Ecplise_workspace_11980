@@ -1,0 +1,33 @@
+package java8features;
+
+@FunctionalInterface
+interface MyFuntionalInterface{
+	void greet();
+}
+
+interface MyFuntionalInterface2{
+	int findSquare(int num);
+}
+
+interface MyFuntionalInterface3{
+	int findCube(int num);
+}
+
+
+public interface LambdaExpressions {
+	public static void main(String[] args) {
+		MyFuntionalInterface myFun = () -> System.out.println("Hello..");
+		myFun.greet();
+		
+		
+		MyFuntionalInterface2 myFun2 = (int num) -> num * num;
+		int square = myFun2.findSquare(10);
+		System.out.println(square);
+		
+		MyFuntionalInterface3 myFun3 = (int num) -> num * num * num;
+		int cube = myFun3.findCube(10);
+		System.out.println(cube);
+	}
+
+
+}

@@ -1,0 +1,32 @@
+package java8features;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.BinaryOperator;
+
+public class StreamPipeLineDemo {
+
+	public static void main(String[] args) {
+		List<Integer> salaries = Arrays.asList(50000,40000,20000,30000,60000);
+		System.out.println(salaries);
+		
+		List<Integer> filtersalary = salaries.stream()
+	 	.filter(salary -> salary >= 50000)//predicate as argument and expression should be boolean. based on the return type we need to write the condition
+		.toList();
+		System.out.println(filtersalary);
+		
+		List<Double> updatedSalaries = salaries.stream()
+                .map(salary -> salary * 1.10)  // Increment by 10%
+                .toList();
+		System.out.println(updatedSalaries);
+		
+		BinaryOperator<Integer>bioper = (sal1,sal2) ->sal1+sal2;
+		
+		int total = salaries.stream()
+				.reduce(bioper)
+				.get();
+			System.out.println(total);
+
+	}
+
+}

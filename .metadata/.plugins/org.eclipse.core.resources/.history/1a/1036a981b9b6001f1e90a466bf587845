@@ -1,0 +1,13 @@
+package jarfile2;
+
+import jarfile.SimpleInterest;
+
+public class SimpleInterestTest {
+
+	public static void main(String[] args) {
+		System.out.println(Calc.findSquare(10));
+		System.out.println(Calc.findCube(10));
+
+	}
+
+}

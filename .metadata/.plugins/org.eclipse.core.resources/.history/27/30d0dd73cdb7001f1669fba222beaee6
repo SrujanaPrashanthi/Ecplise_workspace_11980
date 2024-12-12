@@ -1,0 +1,24 @@
+package com.edubridge.maven_project;
+	class Calculation{
+		public int findSum(int x) {
+			return x+x;
+		}
+		
+		public int findSub(int x) {
+			return x-x;
+		}
+		public int findMul(int x) {
+			return x*x;
+		}
+		public int findDiv(int x) {
+			return x/x;
+		}
+	}
+public class Calc2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

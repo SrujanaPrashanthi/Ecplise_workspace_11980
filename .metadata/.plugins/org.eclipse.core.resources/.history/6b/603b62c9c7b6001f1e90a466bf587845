@@ -1,0 +1,19 @@
+package myproject;
+
+public class Employee {
+	
+
+	private int employeeId;
+	private String employeeName;
+	private double employeeSalary;
+	//private String employeeEmail;
+	
+	//Constructor, getter & setter methods and toString
+	
+	
+
+	
+	
+	
+
+}

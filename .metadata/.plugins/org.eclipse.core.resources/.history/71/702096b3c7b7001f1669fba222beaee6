@@ -1,0 +1,13 @@
+package com.edubridge.maven_project;
+
+class StudentMarks{
+	int ScienceMarks; 
+	int MathsMarks; 
+	 
+	int GKMarks; 
+}
+
+public class SchoolDetails {
+	
+
+}
