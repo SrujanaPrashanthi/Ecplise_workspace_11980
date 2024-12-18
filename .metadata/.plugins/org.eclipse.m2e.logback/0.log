@@ -612,3 +612,55 @@
 2024-12-12 11:20:08,298 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
 2024-12-12 11:22:17,022 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
 2024-12-12 11:22:17,033 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 19:37:35,588 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 19:37:35,606 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 19:37:59,558 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 19:37:59,564 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 19:39:16,660 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 19:39:16,663 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 19:57:11,881 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 19:57:11,887 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 19:58:32,603 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 19:58:32,608 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 19:58:39,849 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating SumOfDigitsTest from maven configuration
+2024-12-12 20:47:17,392 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 20:47:17,411 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 20:51:00,414 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 20:51:00,420 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 20:51:29,688 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 20:51:29,692 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 20:52:28,873 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 20:52:28,876 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 20:53:00,630 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 20:53:00,632 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 20:53:12,896 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating NumberTest from maven configuration
+2024-12-12 20:53:36,404 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 20:53:36,407 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 20:57:47,312 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 20:57:47,317 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 20:58:36,333 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 20:58:36,337 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 21:01:35,505 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 21:01:35,511 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 21:01:46,819 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 21:01:46,821 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 21:06:44,065 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 21:06:44,070 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 21:08:27,446 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 21:08:27,448 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 21:08:35,541 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating NumberTest (1) from maven configuration
+2024-12-12 22:19:07,767 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 22:19:07,775 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 22:30:29,169 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 22:30:29,173 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 22:30:59,649 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 22:30:59,653 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 22:44:32,010 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 22:44:32,018 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-12 22:45:12,150 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-12 22:45:12,153 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-16 19:02:13,752 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-17 11:16:49,191 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-17 11:17:49,413 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\main\resources
+2024-12-17 11:17:49,441 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Eclipse_workspace_11980\maven_project\src\test\resources
+2024-12-18 10:11:46,623 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
